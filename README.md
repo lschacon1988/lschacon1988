@@ -1,7 +1,6 @@
-- 👋 Hola, Soy Luis Chacon
--
-
-
+# 👋 Hola, Soy Luis Chacon
+#### Iniciando en el mundo de la programacion,
+con conocimientos en Javascript, html, css, react-redux, node.js, postgreSQL, mongoDB
 - 👀 Estoy interesado en nuevas tecnologia para el crecimiento profecional he innovacion 
 - 🌱 Actualmente me encuentro reafirmando conocimiento en React, aprendiendo Python y MongoDB 
 - 💞️ Estoy buscando colaboral en proyectos que me brinden crecimiento profecional he intelectualmente 
